@@ -6,7 +6,8 @@
 <a href="https://twitter.com/dinukaxbandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dinukaxbandara" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dinuka-saminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinuka-saminda" height="30" width="40" /></a>
 <a href="https://fb.com/dinukasaminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinukasaminda" height="30" width="40" /></a>
-<a href="https://dinukabandara.com" target="blank">https://dinukabandara.com</a>
+  
+<a href="https://dinukabandara.com" target="blank">dinukabandara.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
